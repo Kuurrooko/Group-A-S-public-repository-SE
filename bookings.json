@@ -1,0 +1,14 @@
+[
+  {
+    "id": "b-20250501-1",
+    "courtId": 1,
+    "date": "2025-05-15",
+    "startTime": "17:00",
+    "endTime": "18:00",
+    "playerName": "Alexander Zverev",
+    "email": "alex@tennis-club.de",
+    "notes": "Rackets mitbringen",
+    "totalPrice": 35.0,
+    "status": "CONFIRMED"
+  }
+]

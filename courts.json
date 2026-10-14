@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Center Court",
+    "surface": "Sandplatz (Clay)",
+    "indoor": false,
+    "pricePerHour": 35.0,
+    "lights": true,
+    "description": "Premium Sandplatz mit Flutlichtanlage & Zuschauertribüne"
+  },
+  {
+    "id": 2,
+    "name": "Court 2 (Sand)",
+    "surface": "Sandplatz (Clay)",
+    "indoor": false,
+    "pricePerHour": 30.0,
+    "lights": true,
+    "description": "Klassischer Roter Sandplatz, frisch abgezogen"
+  },
+  {
+    "id": 3,
+    "name": "Court 3 (Hard Court)",
+    "surface": "US Open Acrylic",
+    "indoor": false,
+    "pricePerHour": 28.0,
+    "lights": false,
+    "description": "Schneller Hartplatzbelag für präzises Spiel"
+  },
+  {
+    "id": 4,
+    "name": "Halle Platz 1",
+    "surface": "Teppich / Granulat",
+    "indoor": true,
+    "pricePerHour": 42.0,
+    "lights": true,
+    "description": "Beheizte 4-Feld-Tennishalle mit gelenkschonendem Schwingboden"
+  }
+]
